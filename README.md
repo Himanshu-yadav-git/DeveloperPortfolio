@@ -1,57 +1,33 @@
-# Developer Ecosystem Portfolio
+## Screenshots and Evidence
 
-**Name:** Himanshu Yadav
+### Question 1 - Linux Commands
 
-**University:** K.R. Mangalam University
+![Linux Commands](Screenshots/linux_commands.png)
 
-**Course:** B.Tech Computer Science and Engineering
+![System Profile and Binary Conversion](Screenshots/binary_conversion.png)
 
-**Batch:** 2026
+### Question 2 - Shell Scripting
 
-## About This Project
+![System Information Script](Screenshots/sysinfo_demo.png)
 
-This repository demonstrates the technical skills I have
-developed throughout the semester.
+![Backup Script](Screenshots/backup_demo.png)
 
-It includes practical work involving Linux commands,
-Bash scripting, Git and GitHub, REST APIs, Markdown
-documentation, and professional development.
+### Question 3 - API Interaction
 
-## Repository Sections
+![API Demonstration](Screenshots/api_demo.png)
 
-### Q1 - Linux Commands
-System profile, hardware information, Linux commands,
-and binary number representation.
+### Question 4 - Professional Profiles
 
-### Q2 - Shell Scripting
-Bash scripts for system information and automated backups.
+![GitHub Profile](Screenshots/github_profile.png)
+ 	
+![LinkedIn Profile](Screenshots/linkedin_profile.png)
 
-### Q3 - GitHub and API Interaction
-GitHub API, JSONPlaceholder API, JSON responses,
-and API documentation.
+### Question 4 - Portfolio Website
 
-### Q4 - Professional Portfolio
-Technical resume, learning roadmap, GitHub profile,
-LinkedIn profile, and portfolio website.
+![Portfolio Website](Screenshots/portfolio_website.png)
 
-## Technical Skills
+![Live GitHub Pages Website](Screenshots/github_pages_live.png)
 
-- Python
-- Java
-- JavaScript
-- HTML
-- CSS
-- Linux
-- Bash
-- Git and GitHub
+## Live Website
 
-## Profiles
-
-- GitHub: https://github.com/Himanshu-yadav-git
-- LinkedIn: ADD_YOUR_LINKEDIN_URL
-
-## Project
-
-DeveloperPortfolio - Beginner Developer Ecosystem Portfolio
-
-[View Repository](https://github.com/Himanshu-yadav-git/DeveloperPortfolio)
+https://Himanshu-yadav-git.github.io/DeveloperPortfolio/
