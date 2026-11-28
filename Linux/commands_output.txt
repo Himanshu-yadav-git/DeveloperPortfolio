@@ -1,0 +1,13 @@
+{
+echo "===== HOME DIRECTORY ====="
+ls -la ~
+
+echo "===== RUNNING PROCESSES ====="
+ps aux | head -10
+
+echo "===== DISK USAGE ====="
+df -h
+
+echo "===== MEMORY USAGE ====="
+free -h
+} > Linux/commands_output.txt
