@@ -1,0 +1,24 @@
+==========================================
+       SYSTEM INFORMATION REPORT
+==========================================
+Author: Himanshu Yadav
+Roll Number: 2601010068
+Date: Sat Nov 28 05:28:07 UTC 2026
+
+----------- CPU INFORMATION -------------
+CPU Model:                               11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+CPU Cores: 8
+
+----------- MEMORY INFORMATION ----------
+Total Memory: 7.6Gi
+Used Memory: 524Mi
+
+----------- TOP 3 PROCESSES -------------
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+himanshu     325  0.0  0.0   6664  6196 pts/0    Ss   04:49   0:01 -bash
+root           1  0.0  0.1  24248 15476 ?        Ss   04:49   0:00 /sbin/init
+root          89  0.0  0.1  34776 12136 ?        Ss   04:49   0:00 /usr/lib/systemd/systemd-udevd
+
+==========================================
+Report generated successfully.
+==========================================
